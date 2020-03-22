@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/P10425435/TestProjectIBS/_apis/build/status/himkumar1990.pipeline-demo?branchName=master)](https://dev.azure.com/P10425435/TestProjectIBS/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
