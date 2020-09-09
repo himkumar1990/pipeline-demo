@@ -1,6 +1,6 @@
 [![Build Status](https://dev.azure.com/P10425435/TestProjectIBS/_apis/build/status/himkumar1990.pipeline-demo?branchName=master)](https://dev.azure.com/P10425435/TestProjectIBS/_build/latest?definitionId=3&branchName=master)
 # Contributing
-
+added a line
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
